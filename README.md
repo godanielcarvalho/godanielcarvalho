@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Daniel Carvalho 👋
 
-<!--
-**godanielcarvalho/godanielcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Exploring software development, AI, automation, and creative technology.
 
-Here are some ideas to get you started:
+I'm interested in building useful solutions, experimenting with new technologies, and turning ideas into practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Areas of Interest
+
+- 🤖 Artificial Intelligence & AI-powered tools
+- 💻 Software Development
+- ⚙️ Automation & Productivity
+- 🧩 Creative Technology & Problem Solving
+
+### 🛠️ Currently Learning
+
+- Python and backend development
+- Software engineering fundamentals
+- AI-assisted development and modern tools
+
+### 🎯 My Approach
+
+I believe in learning by building: experimenting, solving real problems, and improving one project at a time.
+
+### 🌎 About Me
+
+Based in Brazil 🇧🇷
+
+Always curious. Always building. Always learning.
